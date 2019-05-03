@@ -254,6 +254,7 @@ konfigurasjonsinnstillinger
 konfigurasjonsveiviser
 konfigurasjonsveiviseren
 konfigurer
+konfigureres
 konfigurere
 kontrollfelt
 konvertering
@@ -459,6 +460,8 @@ testdata
 testdataene
 testene
 testserver
+tidssone
+tidssonen
 tidsstempel
 tidsstemplet
 tilgjengelighet
@@ -523,3 +526,4 @@ webside
 webservice
 webservicene
 webstart
+wsAPI
