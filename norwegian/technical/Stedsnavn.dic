@@ -28,6 +28,7 @@ dokumentasjonsdato
 dokumentasjonsdatoen
 dokumentdato
 dokumenttype
+dokumenttyper
 eksonym
 etterregistreres
 etterregistrert
@@ -71,6 +72,7 @@ foeringstidspunktet
 første
 foerste
 geometritype
+geometrityper
 gårdsnummer
 gaardsnummer
 gruppetilhørighet
@@ -104,6 +106,8 @@ kartprodukter
 kartserie
 karttype
 karttypekode
+karttypekoder
+karttyper
 kartverk
 kartverket
 kartutgiver
@@ -161,10 +165,10 @@ matrikkelsoek
 matrikkelnummer
 matrikkelnummeret
 merknadstype
-merknadstypen
 merknadstypekode
 merknadstypekoden
 merknadstypekoder
+merknadstypen
 merknadstyper
 myndighet
 myndighetskode
@@ -175,7 +179,10 @@ navnemyndighet
 navnemyndigheten
 navneledd
 navneleddet
-havneobjekthovedgruppe
+navneobjektgruppe
+navneobjektgrupper
+navneobjekthovedgruppe
+navneobjekthovedgrupper
 navneobjektklassifisering
 navneobjekttype
 navneobjekttypegruppe
@@ -207,6 +214,8 @@ navnestatushistorikken
 navnestatushistorikker
 navnestatuskode
 navnestatuskoden
+navnetype
+navnetyper
 navnevalg
 navnevalget
 nord
