@@ -151,8 +151,11 @@ klagenemndas
 klagenemndsak
 klagenemndsaken
 klagenemndsaker
+klagenemndvedtak
 klagesak
 klagesaken
+klagevedtak
+klagevedtakene
 kode
 kodenavn
 koder
@@ -253,6 +256,8 @@ normeringer
 når
 naar
 objekt
+objektinformasjon
+objektinformasjonen
 objektspleising
 område
 omraade
