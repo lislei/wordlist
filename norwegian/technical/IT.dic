@@ -227,6 +227,8 @@ jobbstatuser
 jobbtype
 kartlag
 kildeadresse
+kildekode
+kildekoden
 klassen
 klassenavn
 klassens
@@ -260,6 +262,10 @@ kommaseparerte
 kommoando
 kommoandoen
 kommunikasjonsproblem
+kompilere
+kompilering
+kompilert
+kompilerte
 komponent
 konfigurasjon
 konfigurasjoner
@@ -296,6 +302,8 @@ løkke
 løkker
 løpenummer
 mappeinnhold
+maskinkode
+maskinkoden
 matrikkelen
 meldingsformidling
 mellomlager
