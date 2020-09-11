@@ -67,11 +67,16 @@ bruksnummer
 bruksnummeret
 brukstillatelse
 brukstillatelsen
+brukstillatelser
+byggesaksbehandling
+byggesaksbehandlingen
 bygning
 bygningsendring
 bygningsendringen
 bygningsendringer
 bygningsendringskode
+bygningsdata
+bygningsdataene
 bygningsnummer
 bygningsreferanse
 bygningsreferansen
@@ -113,6 +118,8 @@ feilføringen
 fellesareal
 fellesarealene
 ferdigattest
+ferdigattesten
+ferdigattester
 festegrunn
 festegrunnen
 festegrunner
@@ -265,6 +272,7 @@ matrikkelnummeret
 matrikuler
 matrikulering
 matrikulert
+meldingssak
 målemetode
 nymatrikulering
 nymatrikuleringen
@@ -287,6 +295,9 @@ postnummerområdet
 punktfeste
 punktfester
 punktfestet
+rammetillatelse
+rammetillatelsen
+rammetillatelser
 referanse
 referansen
 referansekode
