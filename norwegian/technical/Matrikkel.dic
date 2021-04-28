@@ -14,6 +14,9 @@ adressemerkebestillingen
 adressemerkebestillinger
 adressenavn
 adressenavnet
+adresserapport
+adresserapporten
+adresserapporter
 adressereferanse
 adressereferansen
 adressereferansene
@@ -72,6 +75,9 @@ brukstillatelsen
 brukstillatelser
 byggesaksbehandling
 byggesaksbehandlingen
+byggrapport
+byggrapporten
+byggrapporter
 bygning
 bygningsendring
 bygningsendringen
@@ -264,6 +270,9 @@ matrikkelenhet
 matrikkelenheten
 matrikkelenhetene
 matrikkelenheter
+matrikkelenhetrapport
+matrikkelenhetrapporten
+matrikkelenhetrapporter
 matrikkelenhetsreferanse
 matrikkelenhetsreferansen
 matrikkelenhetstype
@@ -310,6 +319,11 @@ punktfestet
 rammetillatelse
 rammetillatelsen
 rammetillatelser
+rapport
+rapportarkiv
+rapporten
+rapportene
+rapporter
 referanse
 referansen
 referansekode
@@ -398,5 +412,8 @@ vedtaksdatoen
 vegadresse
 vegadressen
 vegadresser
+vegrapport
+vegrapporten
+vegrapporter
 vegreferanse
 vegreferansen
